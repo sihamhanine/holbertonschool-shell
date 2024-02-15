@@ -1,2 +1,3 @@
 #!/bin/bash
-grep -A 3 racine /etc/passwd
+grep -iA 3 racine /etc/passwd
+
