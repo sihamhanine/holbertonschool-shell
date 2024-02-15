@@ -1,2 +1,3 @@
 #!/bin/bash
-echo $TRUEKNOWLEDGE+128 | cat
+echo $TRUEKNOWLEDGE+128 | cat -e
+
